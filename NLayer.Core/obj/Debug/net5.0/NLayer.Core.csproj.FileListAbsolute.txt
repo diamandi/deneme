@@ -1,0 +1,15 @@
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/bin/Debug/net5.0/NLayer.Core.deps.json
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/bin/Debug/net5.0/NLayer.Core.runtimeconfig.json
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/bin/Debug/net5.0/NLayer.Core.runtimeconfig.dev.json
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/bin/Debug/net5.0/NLayer.Core.dll
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/bin/Debug/net5.0/ref/NLayer.Core.dll
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/bin/Debug/net5.0/NLayer.Core.pdb
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/obj/Debug/net5.0/NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/obj/Debug/net5.0/NLayer.Core.AssemblyInfoInputs.cache
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/obj/Debug/net5.0/NLayer.Core.AssemblyInfo.cs
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/obj/Debug/net5.0/NLayer.Core.csproj.CoreCompileInputs.cache
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/obj/Debug/net5.0/NLayer.Core.dll
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/obj/Debug/net5.0/ref/NLayer.Core.dll
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/obj/Debug/net5.0/NLayer.Core.pdb
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/obj/Debug/net5.0/NLayer.Core.genruntimeconfig.cache
+/Users/hasan/Projects/NLayerProjects/NLayer.Core/obj/Debug/net5.0/NLayer.Core.csproj.AssemblyReference.cache

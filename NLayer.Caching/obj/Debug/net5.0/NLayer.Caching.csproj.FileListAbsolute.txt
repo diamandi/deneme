@@ -1,0 +1,15 @@
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/bin/Debug/net5.0/NLayer.Caching.deps.json
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/bin/Debug/net5.0/NLayer.Caching.runtimeconfig.json
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/bin/Debug/net5.0/NLayer.Caching.runtimeconfig.dev.json
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/bin/Debug/net5.0/NLayer.Caching.dll
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/bin/Debug/net5.0/ref/NLayer.Caching.dll
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/bin/Debug/net5.0/NLayer.Caching.pdb
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/obj/Debug/net5.0/NLayer.Caching.csproj.AssemblyReference.cache
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/obj/Debug/net5.0/NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/obj/Debug/net5.0/NLayer.Caching.AssemblyInfoInputs.cache
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/obj/Debug/net5.0/NLayer.Caching.AssemblyInfo.cs
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/obj/Debug/net5.0/NLayer.Caching.csproj.CoreCompileInputs.cache
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/obj/Debug/net5.0/NLayer.Caching.dll
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/obj/Debug/net5.0/ref/NLayer.Caching.dll
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/obj/Debug/net5.0/NLayer.Caching.pdb
+/Users/hasan/Projects/NLayerProjects/NLayer.Caching/obj/Debug/net5.0/NLayer.Caching.genruntimeconfig.cache
